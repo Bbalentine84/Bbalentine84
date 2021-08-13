@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bbalentine84
 - 👀 I’m interested in ... computers
-- 🌱 I’m currently learning ...xomputer engineering 
+- 🌱 I’m currently learning ...computer engineering 
 - 💞️ I’m looking to collaborate on ...python codes
 - 📫 How to reach me ... threw email bbalentine@grantham.edu
 
